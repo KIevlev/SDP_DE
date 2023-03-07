@@ -5,7 +5,7 @@ services:
     deploy:
       resources:
         reservations:
-          memory: 10G
+          memory: 12G
     privileged: true
     hostname: quickstart.cloudera
     command: /usr/bin/docker-quickstart
