@@ -44,6 +44,6 @@ sudo /home/cloudera/cloudera-manager --express --force
 
 Ссылки на скринкасты:
 
-HIVE             https://disk.yandex.ru/i/NwrMH20axsk9Pg
-SPARK SQL        https://disk.yandex.ru/i/hzLyQB4-ZX6FrA
-PySpark (rdd)    https://disk.yandex.ru/i/HRIfbiRk7wWCvQ
+* HIVE             https://disk.yandex.ru/i/NwrMH20axsk9Pg
+* SPARK SQL        https://disk.yandex.ru/i/hzLyQB4-ZX6FrA
+* PySpark (rdd)    https://disk.yandex.ru/i/HRIfbiRk7wWCvQ
