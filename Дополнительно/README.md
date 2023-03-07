@@ -17,4 +17,6 @@
 
 ### + Задачи по PySpark, включая RDD и работу с DataFrame.
 
-* Ссылка на [презентацию][<https://disk.yandex.ru/i/M69qnhhXlaPBYA>]
+* Ссылка на [презентацию][pres]
+
+[pres]: <https://disk.yandex.ru/i/M69qnhhXlaPBYA>
